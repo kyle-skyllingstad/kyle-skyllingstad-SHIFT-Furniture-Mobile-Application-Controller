@@ -1,5 +1,6 @@
-# kyle-skyllingstad-SHIFT-Furniture-Mobile-Application-Controller
-SHIFT Furniture iOS Application Overview
+# SHIFT Furniture
+
+Welcome!
 
 The SHIFT Furniture mobile application is an interactive user application that can control the motion of SHIFT Furniture’s autonomous furniture-moving SHIFT Pod System. SHIFT Furniture is comprised of a collection of 6” by 6” by 3.5” square units called SHIFT Pods that, when manually placed under pieces of furniture, can move them to where the user wants them, when the user wants it. The user application can be uploaded and run on any iOS device, such as an iPhone or iPad. This application allows the user to control his or her SHIFT Pods with spoken or written definitive commands, such as, “Move my couch four feet to the right,” or “Angle the piano 45 degrees to the left.” When commanded, the chatbot uses Google’s Dialogflow A.I. capabilities to take in the request, process it, and send it through WiFi to the Pods to execute. Upon reception and validation of the user request, the mobile application will present the command it is sending to the Pods onscreen in the form of written text as well as spoken words. Then the user can watch the Pods move their furniture from its current spot to its desired location. Users should try to avoid unexpected obstacles whenever possible to avoid safety and mechanical hazards, but try not to worry, because the optical sensors installed on every Pod allow them to simultaneously analyze their environment and stop all motion of unexpected obstacles suddenly begin to impede their path of travel. Safety is SHIFT Furniture’s highest priority.
 
